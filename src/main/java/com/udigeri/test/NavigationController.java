@@ -1,4 +1,4 @@
-package com.tutorialspoint.test;
+package com.udigeri.test;
 
 import java.io.Serializable;
 

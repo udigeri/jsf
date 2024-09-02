@@ -18,6 +18,7 @@
       <param-name>javax.faces.CONFIG_FILES</param-name>
       <param-value>/WEB-INF/faces-config.xml</param-value>
    </context-param>
+   
    <!-- 
       FacesServlet is main servlet responsible to handle all request. 
       It acts as central controller.
